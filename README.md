@@ -5,8 +5,8 @@
 # IMAGE
 ![](product-image/product-image_1200x630.png)
 
-# LOGO_BLACK
+# BLACK
 ![](preview/logo_balck_bg.png)
 
-# LOGO_WHITE
+# WHITE
 ![](preview/logo_white_bg.png)
